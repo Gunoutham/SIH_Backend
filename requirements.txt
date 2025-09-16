@@ -2,4 +2,4 @@ fastapi[standard]
 psycopg2-binary
 langchain-google-genai
 python-dotenv
-googletrans==4.0.0-rc1
+deep-translator
