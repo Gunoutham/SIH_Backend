@@ -1,11 +1,3 @@
-Of course. Here is a guide to creating a visually appealing, infographic-style README for your project in Canva.
-
-You can create a new custom design in Canva (e.g., 1080x1920 pixels for a vertical layout) and use these sections as building blocks.
-
------
-
-### **Canva Design Guide: AI Rainwater Calculator README**
-
 **Theme:** Modern, clean, tech-focused. Use a color palette with blues, greens, and a dark grey or charcoal for text.
 **Font:** A clean sans-serif font like "Montserrat", "Poppins", or "Inter".
 
