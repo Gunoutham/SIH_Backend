@@ -1,17 +1,7 @@
-**Theme:** Modern, clean, tech-focused. Use a color palette with blues, greens, and a dark grey or charcoal for text.
-**Font:** A clean sans-serif font like "Montserrat", "Poppins", or "Inter".
+### AI-Powered Rainwater & Groundwater Calculator`
 
------
 
-#### **Section 1: Main Header**
-
-**(Use a large, bold font at the top of your design. Add a subtle water drop or leaf icon next to the title.)**
-
-**Title Text:**
-`AI-Powered Rainwater & Groundwater Calculator`
-
-**Subtitle Text:**
-`A smart FastAPI backend for sustainable water management.`
+### A smart FastAPI backend for sustainable water management.
 
 -----
 
